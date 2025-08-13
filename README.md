@@ -1,7 +1,4 @@
 <!-- Banner image: Place your banner at assets/banner.png in your repository -->
-<p align="center">
-  <img src="https://github.com/raghul-tech/raghul-tech/blob/main/assets/banner.jpg" alt="Raghul Banner"  width="90%" />
-</p>
 
 <h1 align="center">Hi, I'm Raghul 👋</h1>
 <p align="center">
@@ -103,6 +100,7 @@ Modular Java utilities for Markdown preview, file change detection, and efficien
 ## 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-raghultech.app@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghultech.app@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-raghul--john--r-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghul-john-r-3a9577320/)
 
 ---
 
