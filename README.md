@@ -99,9 +99,9 @@ Modular Java utilities for Markdown preview, file change detection, and efficien
 
 ## 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-raghultech.app@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghultech.app@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-raghul--john--r-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghul-john-r-3a9577320/)
-
+[![Email](https://img.shields.io/badge/Email-raghultech.app@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghultech.app@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-raghul--john--r-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghul-john-r-3a9577320/)  
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HV52xFntYb)
 ---
 
 <p align="center">
