@@ -1,6 +1,6 @@
 <!-- Banner image: Place your banner at assets/banner.png in your repository -->
 <p align="center">
-  <img src="https://github.com/raghul-tech/raghul-tech/blob/main/assets/banner.jpg" alt="Raghul Banner" width="100%" />
+  <img src="https://github.com/raghul-tech/raghul-tech/blob/main/assets/banner.jpg" alt="Raghul Banner"  width="90%" />
 </p>
 
 <h1 align="center">Hi, I'm Raghul 👋</h1>
@@ -54,15 +54,7 @@
 [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch-io&logoColor=white)](https://raghul-tech.itch.io/notepadxx)
 [![SourceForge](https://img.shields.io/badge/SourceForge-F88C00?style=for-the-badge&logo=sourceforge&logoColor=white)](https://sourceforge.net/projects/notepadxx/)
 
-🚀 **NotepadXX** — A fast, Java-powered text editor built for developers and writers who demand more.  
-- **Real-time linting & syntax highlighting** for dozens of languages  
-- **Markdown preview** for instant documentation editing  
-- **Built-in terminal** for seamless workflow  
-- **Multi-tab support**, custom themes, and file change detection  
-- **Zero telemetry:** Your privacy is respected  
-- **Cross-platform:** Available for Windows & Linux  
-**Why use NotepadXX?**  
-Level up your productivity with an editor that combines power, speed, and simplicity. Open source, extensible, and designed for everyone—from students to professionals.
+A fast, Java-powered text editor with real-time syntax highlighting, Markdown preview, and built-in terminal—cross-platform and privacy-focused.
 
 ---
 
@@ -73,14 +65,7 @@ Level up your productivity with an editor that combines power, speed, and simpli
 [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch-io&logoColor=white)](https://raghul-tech.itch.io/elitecalculator)
 [![SourceForge](https://img.shields.io/badge/SourceForge-F88C00?style=for-the-badge&logo=sourceforge&logoColor=white)](https://sourceforge.net/projects/elitecalculator/)
 
-🧮 **Elite Calculator** — The ultimate, fast, and efficient calculator for every student, engineer, and professional.  
-- **Standard & scientific modes** for every calculation need  
-- **Customizable themes** to match your style  
-- **Offline support** means reliable access anywhere  
-- **Keyboard shortcuts** for super-fast calculations  
-- **Cross-platform:** Works on Windows & Linux  
-**Why use Elite Calculator?**  
-Say goodbye to clunky calculators. Elite Calculator is lightweight, responsive, and packed with features you’ll actually use.
+A fast, efficient calculator with standard and scientific modes, themes, keyboard shortcuts, and offline support for Windows and Linux.
 
 ---
 
@@ -91,14 +76,7 @@ Say goodbye to clunky calculators. Elite Calculator is lightweight, responsive, 
 [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch-io&logoColor=white)](https://raghul-tech.itch.io/snakefeast)
 [![SourceForge](https://img.shields.io/badge/SourceForge-F88C00?style=for-the-badge&logo=sourceforge&logoColor=white)](https://sourceforge.net/projects/snakefeast/)
 
-🎮 **Snake Feast** — The classic arcade snake game, reimagined for modern devices.  
-- **Multiple difficulty modes** for casual and hardcore gamers  
-- **Snake color customization** for a personalized experience  
-- **Mobile support** for gaming on the go  
-- **Responsive design** for flawless play on any screen  
-- **Cross-platform:** Play on Windows & Linux  
-**Why play Snake Feast?**  
-Relive retro fun, challenge your reflexes, and enjoy smooth, bug-free gameplay—anywhere, anytime.
+A modern take on the classic snake game featuring difficulty modes, customization, and smooth play on desktop and mobile.
 
 ---
 
@@ -106,11 +84,7 @@ Relive retro fun, challenge your reflexes, and enjoy smooth, bug-free gameplay�
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghul-tech/Multi-Agent-SEO-Blog-Generator)
 
-🤖 **Multi-Agent SEO Blog Generator** — Automate SEO-friendly blog creation with multi-agent AI:
-- Research trending topics using Google News, Bing News (SerpAPI), and Gemini AI
-- Generate well-structured, optimized content for search engines
-- Produce high-quality blogs in Markdown, TXT, HTML, and PDF formats
-- Ideal for marketers, bloggers, and anyone wanting to scale content creation with AI
+Automate creation of SEO-friendly blogs with multi-agent AI, generating optimized content in Markdown, TXT, HTML, and PDF formats.
 
 ---
 
@@ -118,17 +92,7 @@ Relive retro fun, challenge your reflexes, and enjoy smooth, bug-free gameplay�
 
 [![Maven Central](https://img.shields.io/badge/Maven%20Central-4E53B0?style=for-the-badge&logo=apache-maven&logoColor=white)](https://mvnrepository.com/artifact/io.github.raghul-tech)
 
-A growing collection of practical Java utilities for developers:
-- **MDPreviewer:** Instantly render and preview Markdown in your Java apps.
-- **File Change Detection:** Monitor file changes with simple, reliable listeners.
-- **File Reading Utils:** Read files efficiently with reusable APIs.
-- **Reusable JARs:** All components are modular, documented, and ready for integration.
-
-**Why choose io.github.raghul-tech?**
-- 🧩 Modular: Use only what you need.
-- 🚀 Simple: Designed for drop-in usage—no heavy configs.
-- 📈 Actively maintained: New features & improvements added regularly.
-- 📖 Well-documented: Easy-to-follow guides and code examples.
+Modular Java utilities for Markdown preview, file change detection, and efficient file reading—well-documented and actively maintained.
 
 *See [Maven Central](https://mvnrepository.com/artifact/io.github.raghul-tech) for all modules and latest versions.*
 
