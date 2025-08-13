@@ -87,14 +87,14 @@ Automate creation of SEO-friendly blogs with multi-agent AI, generating optimize
 
 ### Java Library – io.github.raghul-tech
 
-[![Maven Central](https://img.shields.io/badge/Maven%20Central-4E53B0?style=for-the-badge&logo=apache-maven&logoColor=white)](https://mvnrepository.com/artifact/io.github.raghul-tech)
+[![Maven Repository](https://img.shields.io/badge/Maven%20Repo-artifact-4E53B0?style=for-the-badge&logo=apache-maven&logoColor=white)](https://mvnrepository.com/artifact/io.github.raghul-tech)
+[![Sonatype Central](https://img.shields.io/badge/Sonatype%20Central-namespace-4E53B0?style=for-the-badge&logo=apache-maven&logoColor=white)](https://central.sonatype.com/search?namespace=io.github.raghul-tech)
 
 Modular Java utilities for Markdown preview, file change detection, and efficient file reading—well-documented and actively maintained.
 
-*See [Maven Central](https://mvnrepository.com/artifact/io.github.raghul-tech) for all modules and latest versions.*
+*See [Maven Repository](https://mvnrepository.com/artifact/io.github.raghul-tech) for individual modules and [Sonatype Central](https://central.sonatype.com/search?namespace=io.github.raghul-tech) for all published packages.*
 
 > ⭐ **More libraries and updates coming soon! Star and follow to stay updated.**
-
 ---
 
 ## 📫 Contact
