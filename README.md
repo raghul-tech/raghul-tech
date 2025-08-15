@@ -35,8 +35,6 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Maven Central Publishing](https://img.shields.io/badge/Maven%20Central%20Publishing-2496ED?style=for-the-badge&logo=apache&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -49,6 +47,8 @@
 ![SourceForge Publishing](https://img.shields.io/badge/SourceForge%20Publishing-F88C00?style=for-the-badge&logo=sourceforge&logoColor=white)
 ![Web App Development](https://img.shields.io/badge/Web%20App%20Development-0db7ed?style=for-the-badge&logo=web&logoColor=white)
 ![Web App Publishing](https://img.shields.io/badge/Web%20App%20Publishing-0db7ed?style=for-the-badge&logo=web&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Maven Central Publishing](https://img.shields.io/badge/Maven%20Central%20Publishing-2496ED?style=for-the-badge&logo=apache&logoColor=white)
 
 ---
 
