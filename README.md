@@ -25,7 +25,6 @@
 
 ## 🌟 Skills
 
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -39,9 +38,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
----
-
 ![Microsoft Store Deployment](https://img.shields.io/badge/Microsoft%20Store%20Deployment-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Chrome Web Store Deployment](https://img.shields.io/badge/Chrome%20Web%20Store%20Deployment-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 ![Edge Add-on Deployment](https://img.shields.io/badge/Edge%20Add-on%20Deployment-0078D7?style=for-the-badge&logo=microsoft-edge&logoColor=white)
