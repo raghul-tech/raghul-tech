@@ -25,37 +25,33 @@
 
 ## 🌟 Skills
 
-**Languages**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Development**
-![Java Swing](https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
-![J2EE](https://img.shields.io/badge/J2EE-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Web Development](https://img.shields.io/badge/Web%20Development-0db7ed?style=for-the-badge&logo=web&logoColor=white)
-
-**Tools & Platforms**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-**Deployment & Publishing**
-![Microsoft Store Deployment](https://img.shields.io/badge/Microsoft%20Store-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
-![Chrome Web Store Deployment](https://img.shields.io/badge/Chrome%20Web%20Store-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
-![Edge Add-on Deployment](https://img.shields.io/badge/Edge%20Add--on-0078D7?style=for-the-badge&logo=microsoft-edge&logoColor=white)
-![Firefox Add-on Deployment](https://img.shields.io/badge/Firefox%20Add--on-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)
+---
+
+![Microsoft Store Deployment](https://img.shields.io/badge/Microsoft%20Store%20Deployment-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
+![Chrome Web Store Deployment](https://img.shields.io/badge/Chrome%20Web%20Store%20Deployment-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
+![Edge Add-on Deployment](https://img.shields.io/badge/Edge%20Add-on%20Deployment-0078D7?style=for-the-badge&logo=microsoft-edge&logoColor=white)
+![Firefox Add-on Deployment](https://img.shields.io/badge/Firefox%20Add-on%20Deployment-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)
 ![Linux App Publishing](https://img.shields.io/badge/Linux%20App%20Publishing-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![itch.io Publishing](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch-io&logoColor=white)
-![SourceForge Publishing](https://img.shields.io/badge/SourceForge-F88C00?style=for-the-badge&logo=sourceforge&logoColor=white)
+![itch.io Publishing](https://img.shields.io/badge/itch.io%20Publishing-FA5C5C?style=for-the-badge&logo=itch-io&logoColor=white)
+![SourceForge Publishing](https://img.shields.io/badge/SourceForge%20Publishing-F88C00?style=for-the-badge&logo=sourceforge&logoColor=white)
+![Web App Development](https://img.shields.io/badge/Web%20App%20Development-0db7ed?style=for-the-badge&logo=web&logoColor=white)
+![Web App Publishing](https://img.shields.io/badge/Web%20App%20Publishing-0db7ed?style=for-the-badge&logo=web&logoColor=white)
+---
 
 ## 🛠️ Projects
 
