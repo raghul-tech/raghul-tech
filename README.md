@@ -1,5 +1,3 @@
-<!-- Banner image: Place your banner at assets/banner.png in your repository -->
-
 <h1 align="center">Hi, I'm Raghul 👋</h1>
 <p align="center">
   <b>Developer • Open Source Contributor</b>
@@ -58,9 +56,9 @@ A fast, Java-powered text editor with real-time syntax highlighting, Markdown pr
 ### Elite Calculator
 
 [![Microsoft Store](https://img.shields.io/badge/Microsoft%20Store-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)](https://apps.microsoft.com/detail/9pcn88z0l6hn?hl=en-GB&gl=IN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghul-tech/EliteCalculator)
-[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch-io&logoColor=white)](https://raghul-tech.itch.io/elitecalculator)
-[![SourceForge](https://img.shields.io/badge/SourceForge-F88C00?style=for-the-badge&logo=sourceforge&logoColor=white)](https://sourceforge.net/projects/elitecalculator/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghul-tech/Elite-Calculator)
+[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch-io&logoColor=white)](https://raghul-tech.itch.io/elite-calculator)
+[![SourceForge](https://img.shields.io/badge/SourceForge-F88C00?style=for-the-badge&logo=sourceforge&logoColor=white)](https://sourceforge.net/projects/elite-calculator/)
 
 A fast, efficient calculator with standard and scientific modes, themes, keyboard shortcuts, and offline support for Windows and Linux.
 
@@ -69,9 +67,14 @@ A fast, efficient calculator with standard and scientific modes, themes, keyboar
 ### Snake Feast
 
 [![Microsoft Store](https://img.shields.io/badge/Microsoft%20Store-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)](https://apps.microsoft.com/detail/9pc2z9ngjkkt?hl=en-GB&gl=IN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghul-tech/SnakeFeast)
-[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch-io&logoColor=white)](https://raghul-tech.itch.io/snakefeast)
-[![SourceForge](https://img.shields.io/badge/SourceForge-F88C00?style=for-the-badge&logo=sourceforge&logoColor=white)](https://sourceforge.net/projects/snakefeast/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghul-tech/Snake-Feast)
+[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch-io&logoColor=white)](https://raghul-tech.itch.io/snake-feast)
+[![SourceForge](https://img.shields.io/badge/SourceForge-F88C00?style=for-the-badge&logo=sourceforge&logoColor=white)](https://sourceforge.net/projects/snake-feast/)
+
+
+[![Microsoft Edge](https://img.shields.io/badge/Edge_Add--on-0078D7?style=for-the-badge&logo=microsoft-edge&logoColor=white)](https://microsoftedge.microsoft.com/addons/detail/snake-feast/jlibkeadeilgolekhdoefckmknpmaiik)
+[![Google Chrome](https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/snake-feast/hfmacflbnmdcjlilbnhflplpaaocaohp?authuser=0&hl=en-GB)
+[![Firefox Addon](https://img.shields.io/badge/Firefox_Add--on-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://addons.mozilla.org/en-GB/firefox/addon/snake-feast/)
 
 A modern take on the classic snake game featuring difficulty modes, customization, and smooth play on desktop and mobile.
 
@@ -100,7 +103,7 @@ Modular Java utilities for Markdown preview, file change detection, and efficien
 ## 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghultech.app@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-raghul--john--r-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghul-john-r-3a9577320/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-raghul--john--r-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghuljohn/)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HV52xFntYb)
 
 ---
