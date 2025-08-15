@@ -45,11 +45,11 @@
 
 You can explore all my projects directly on each platform:  
 
-[![Microsoft Store](https://img.shields.io/badge/Microsoft%20Store-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)](https://apps.microsoft.com/search/publisher?name=Raghul-tech&hl=en-GB&gl=IN)  
-[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch-io&logoColor=white)](https://raghul-tech.itch.io/)  
-[![SourceForge](https://img.shields.io/badge/SourceForge-F88C00?style=for-the-badge&logo=sourceforge&logoColor=white)](https://sourceforge.net/u/raghul-tech/profile)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghul-tech?tab=repositories)  
-[![Maven Repository](https://img.shields.io/badge/Maven%20Repo-4E53B0?style=for-the-badge&logo=apache-maven&logoColor=white)](https://mvnrepository.com/artifact/io.github.raghul-tech)  
+[![Microsoft Store](https://img.shields.io/badge/Microsoft%20Store-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)](https://apps.microsoft.com/search/publisher?name=Raghul-tech&hl=en-GB&gl=IN)
+[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch-io&logoColor=white)](https://raghul-tech.itch.io/)
+[![SourceForge](https://img.shields.io/badge/SourceForge-F88C00?style=for-the-badge&logo=sourceforge&logoColor=white)](https://sourceforge.net/u/raghul-tech/profile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghul-tech?tab=repositories)
+[![Maven Repository](https://img.shields.io/badge/Maven%20Repo-4E53B0?style=for-the-badge&logo=apache-maven&logoColor=white)](https://mvnrepository.com/artifact/io.github.raghul-tech)
 [![Sonatype Central](https://img.shields.io/badge/Sonatype%20Central-4E53B0?style=for-the-badge&logo=apache-maven&logoColor=white)](https://central.sonatype.com/search?namespace=io.github.raghul-tech)
 
 > 💡 Visit the above platform links to view all projects, downloads, and detailed descriptions.
